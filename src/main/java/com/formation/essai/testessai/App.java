@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "bonjour tout le monde" );
+    	System.out.println( "Bienvenue 2020" );
+        System.out.println("Bye 2019");
     }
 }
